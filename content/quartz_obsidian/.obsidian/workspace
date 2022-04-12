@@ -7,8 +7,13 @@
         "id": "2d8ffaaa7304ba0c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "第一篇.md.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "第一篇.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "第一篇.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "第一篇.md.md"
+              }
             }
           }
         ]
@@ -121,5 +130,7 @@
     "collapsed": true
   },
   "active": "2d8ffaaa7304ba0c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "第一篇.md.md"
+  ]
 }
