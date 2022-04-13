@@ -1,34 +1,29 @@
 {
   "main": {
-    "id": "9801222453d39eb0",
+    "id": "c25429bbcb6e30b6",
     "type": "split",
     "children": [
       {
-        "id": "027ad8a3a6801f57",
+        "id": "f5fcbf4f40ed9c35",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "publish/troubleshooting copy.md",
-            "mode": "preview",
-            "backlinks": true,
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1bbf8eeacbad9322",
+    "id": "af42cce11c946f67",
     "type": "split",
     "children": [
       {
-        "id": "1be46c313f15bd72",
+        "id": "a40974db8b19bed5",
         "type": "tabs",
         "children": [
           {
-            "id": "7dbf05fc9f3a4fa9",
+            "id": "42ece34a72836db6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -36,7 +31,7 @@
             }
           },
           {
-            "id": "985e4ade8ca8dd2b",
+            "id": "47189107ed39a9f8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -51,7 +46,7 @@
             }
           },
           {
-            "id": "c939061cfdf5be78",
+            "id": "e591058fab5bdf86",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -65,20 +60,19 @@
     "width": 300
   },
   "right": {
-    "id": "8d4c3ab61791a1af",
+    "id": "fbf4b9e0cfc0d28e",
     "type": "split",
     "children": [
       {
-        "id": "9e1c1b3ba86d1eb4",
+        "id": "4f2a62fae10d5e30",
         "type": "tabs",
         "children": [
           {
-            "id": "421e572cdf494f74",
+            "id": "a287702e3a8802df",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "publish/troubleshooting copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,19 +84,18 @@
             }
           },
           {
-            "id": "b807498a78829d36",
+            "id": "150f14ef486b1243",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "publish/troubleshooting copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "2332927e9c8dd2f6",
+            "id": "80cce4adfb50194e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -113,29 +106,31 @@
             }
           },
           {
-            "id": "f40f348fd4fa59ac",
+            "id": "2c4f76aa6075915f",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "publish/troubleshooting copy.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "027ad8a3a6801f57",
+  "active": "f5fcbf4f40ed9c35",
   "lastOpenFiles": [
-    "publish/troubleshooting copy.md",
-    "publish/这就是一个新的联系.md",
-    "publish/第一篇.md",
-    "notes/ignore notes.md",
-    "().md",
-    "第一篇.md.md"
+    "插入图片的测试.md",
+    "setup.md",
+    "notes/editing.md",
+    "20220413-2.md",
+    "CJK + Latex Support (测试).md",
+    "editing.md",
+    "philosophy.md",
+    "20220413.md",
+    "config.md",
+    "notes/quartz日志模板.md"
   ]
 }

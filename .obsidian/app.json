@@ -1,0 +1,11 @@
+{
+  "legacyEditor": false,
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/notes",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "content/notes/images",
+  "promptDelete": false
+}

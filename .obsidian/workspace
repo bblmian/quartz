@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "c27f620da1bb7a4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "454d2dabe83ffbbb",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5b3c5163515449c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee10d9a1b82885dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac096585606de89f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "862432eda173c37f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e9555184de66be6",
+    "type": "split",
+    "children": [
+      {
+        "id": "210469214617f5c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c077d3f9c747632",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d38fdb00220006b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "454d2dabe83ffbbb",
+  "lastOpenFiles": [
+    "content/notes/20220413-2.md",
+    "content/notes/setup.md",
+    "content/_index.md",
+    "content/notes/20220413.md",
+    "content/notes/CJK + Latex Support (测试).md",
+    "content/notes/ignore notes.md",
+    "content/notes/editing.md",
+    "content/notes/插入图片的测试.md",
+    "content/notes/troubleshooting.md",
+    "content/notes/未命名.md"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "legacyEditor": false,
+  "livePreview": false,
+  "defaultViewMode": "source",
+  "showFrontmatter": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "promptDelete": false,
+  "useMarkdownLinks": true
+}
