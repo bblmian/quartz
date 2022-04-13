@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "454d2dabe83ffbbb",
+        "id": "caed679b99280eb1",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -89,11 +89,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "454d2dabe83ffbbb",
+  "active": "caed679b99280eb1",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/notes/20220413-2.md",
     "content/notes/setup.md",
-    "content/_index.md",
     "content/notes/20220413.md",
     "content/notes/CJK + Latex Support (测试).md",
     "content/notes/ignore notes.md",

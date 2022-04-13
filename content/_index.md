@@ -1,5 +1,5 @@
 ---
-title: 🪴🌻🤧 Benjamin & Abner 😺🥥🍘
+title: 🪴🌻🤧 Benjamin & Abner 😺🍘
 ---
 
 Hello, this is my blog.
