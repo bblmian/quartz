@@ -1,9 +1,10 @@
 {
   "legacyEditor": false,
-  "livePreview": true,
+  "livePreview": false,
   "showFrontmatter": true,
   "showLineNumber": false,
   "newLinkFormat": "absolute",
   "alwaysUpdateLinks": true,
-  "useMarkdownLinks": false
+  "useMarkdownLinks": true,
+  "promptDelete": false
 }
