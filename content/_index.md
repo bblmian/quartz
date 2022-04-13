@@ -18,7 +18,7 @@ Not convinced yet? Look at some [community digital gardens](notes/showcase.md) b
 ## Content Lists
 If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
 
-- [All Notes](/notes)
+- [All Notes](/quartz_obsidian/publish)
 - [Setup-related Notes](/tags/setup)
 
 ## Troubleshooting

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/ignore notes.md",
-            "mode": "source",
+            "file": "publish/troubleshooting copy.md",
+            "mode": "preview",
             "backlinks": true,
             "source": true
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/ignore notes.md",
+                "file": "publish/troubleshooting copy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/ignore notes.md",
+                "file": "publish/troubleshooting copy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/ignore notes.md"
+                "file": "publish/troubleshooting copy.md"
               }
             }
           }
@@ -131,10 +131,10 @@
   },
   "active": "027ad8a3a6801f57",
   "lastOpenFiles": [
+    "publish/troubleshooting copy.md",
+    "publish/这就是一个新的联系.md",
+    "publish/第一篇.md",
     "notes/ignore notes.md",
-    "troubleshooting copy.md",
-    "第一篇.md",
-    "这就是一个新的联系.md",
     "().md",
     "第一篇.md.md"
   ]

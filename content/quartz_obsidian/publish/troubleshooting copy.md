@@ -1,6 +1,7 @@
 ---
-title: "Troubleshooting and FAQ"
+title: "Nice Troubleshooting and FAQ"
 ---
+
 
 Still having trouble? Here are a list of common questions and problems people encounter when installing Quartz.
 
@@ -79,3 +80,5 @@ Not out of the box. You could probably make it work by editing `/layouts/_defaul
 Quartz isn't perfect! If you're still having troubles, file an issue in the GitHub repo with as much information as you can reasonably provide. Alternatively, you can message me on [Twitter](https://twitter.com/_jzhao) and I'll try to get back to you as soon as I can.
 
 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
+
+[[publish/第一篇]]
