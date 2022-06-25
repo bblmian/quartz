@@ -41,3 +41,4 @@ tags:
 然后你就会明晃晃的看到，两个空的地方给你填写，如果你填写过，或者它默认的也会现在里面，还是灰色的，似乎是不可以该的样子。其实是可以改的，你写上cloudflare网站提供给你的更好的那个nameserver，然后点提交。完毕！
 
 ![如何更改namesilo中的nameserver](notes/images/Pasted%20image%2020220413213301.png)
+
